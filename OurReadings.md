@@ -11,11 +11,7 @@ Group_Users_Invitations_Received
 
 -
 
-Swagger
-
-Node + ????? + MongoDB
-Python + ????? + MySQL
-
-Vue
-React
+Blazor
 Flutter
+NextJS
+NullStack
